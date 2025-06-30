@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Somaya Ahmed</h1>
 
 <p align="center">
-  A passionate Front-End & .NET Developer from Egypt 🇪🇬  
+  A passionate .NET Developer from Egypt 🇪🇬  
 </p>
 
 ---
