@@ -15,7 +15,7 @@
 - 📫 How to reach me:  
   - [LinkedIn](https://www.linkedin.com/in/somaya-ahmed-1130871b7/)  
   - [GitHub](https://github.com/SomayaAhmed1430)  
-  - [Mostaql Profile]([#](https://mostaql.com/u/somaya_ahmed242))  
+  - [Mostaql Profile](https://mostaql.com/u/somaya_ahmed242)  
 
 ---
 
